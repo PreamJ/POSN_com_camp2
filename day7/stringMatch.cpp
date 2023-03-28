@@ -27,6 +27,6 @@ int main(){
     lenT = text.length();
     for(int i=0; i<text.length()-lenP; i++){
         int j=0;
-        //while((j<lenP)&&)
+        while((j<lenP)&&)
     }
 }
